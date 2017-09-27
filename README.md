@@ -1,8 +1,13 @@
 # CS510 CW 5
+Name: Julie Gardner-Hoag, Logan Gantner
 
-**Author(s):** **CHANGEME**
+Student ID: 2299636, 2307470
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-05-YOURNAME)
+Email: gardnerh@chapman.edu, gantner@chapman.edu
+
+Course: CS510 Fall 2017
+
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-05-logan_julie.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-05-logan_julie)
 
 ## Specification
 
@@ -21,9 +26,7 @@
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+I'll add this later.
 
 ## Honor Pledge
 
@@ -34,4 +37,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Julie Gardner-Hoag, Logan Gantner

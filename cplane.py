@@ -37,9 +37,6 @@ class ListComplexPlane(AbsComplexPlane):
             plane.append([])
             for y in y_grid_vals:
                 plane[-1].append(x + 1j*y)
-
-        print(plane)
-                
         return plane
     
     def refresh(self):

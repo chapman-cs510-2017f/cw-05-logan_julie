@@ -26,7 +26,7 @@ Course: CS510 Fall 2017
 
 ## Assessment
 
-I'll add this later.
+This program proved to be the most difficult one so far. Logan was very helpful in describing the way the program should work and how we should code it. It helped that we both had experience working with classes, but it still proved to be a challenge for us.
 
 ## Honor Pledge
 

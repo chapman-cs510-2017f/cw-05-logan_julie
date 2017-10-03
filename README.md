@@ -28,6 +28,8 @@ Course: CS510 Fall 2017
 
 This program proved to be the most difficult one so far. Logan was very helpful in describing the way the program should work and how we should code it. It helped that we both had experience working with classes, but it still proved to be a challenge for us.
 
+Requiring the use of abstract base classes was helpful. Both of us had implemented class inheritence in the past, but neither of us had ever dealt with the `@abstractmethod` before. This helped to emphasize one of the fundamental purposes of ABCs.
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
